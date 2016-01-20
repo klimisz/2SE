@@ -1,0 +1,966 @@
+src/GUI/Admin_gui.java:1:	Package name contains upper case characters
+src/GUI/Admin_gui.java:6:	headerCommentRequirement Required
+src/GUI/Admin_gui.java:11:	Avoid unused constructor parameters such as 's'.
+src/GUI/Admin_gui.java:11:	Avoid variables with short names like s
+src/GUI/Admin_gui.java:11:	It is a good practice to call super() in a constructor
+src/GUI/Admin_gui.java:11:	Parameter 's' is not assigned and could be declared final
+src/GUI/Admin_gui.java:13:	Avoid unused local variables such as 'panel'.
+src/GUI/Admin_gui.java:13:	Local variable 'panel' could be declared final
+src/GUI/Admin_gui.java:16:	Avoid unused local variables such as 'panel_1'.
+src/GUI/Admin_gui.java:16:	Local variable 'panel_1' could be declared final
+src/GUI/Admin_gui.java:16:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'panel_1' is not final.
+src/GUI/Admission.java:1:	Package name contains upper case characters
+src/GUI/Admission.java:10:	Avoid unused imports such as 'java.text.Format'
+src/GUI/Admission.java:18:	headerCommentRequirement Required
+src/GUI/Admission.java:23:	Avoid variables with short names like s
+src/GUI/Admission.java:23:	It is a good practice to call super() in a constructor
+src/GUI/Admission.java:23:	Parameter 's' is not assigned and could be declared final
+src/GUI/Admission.java:30:	Local variable 'panel' could be declared final
+src/GUI/Admission.java:41:	Local variable 'textPane' could be declared final
+src/GUI/Admission.java:45:	Local variable 'label' could be declared final
+src/GUI/Admission.java:49:	Avoid excessively long variable names like formattedTextField
+src/GUI/Admission.java:49:	Local variable 'formattedTextField' could be declared final
+src/GUI/Admission.java:49:	When instantiating a SimpleDateFormat object, specify a Locale
+src/GUI/Admission.java:54:	Local variable 'label_1' could be declared final
+src/GUI/Admission.java:54:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'label_1' is not final.
+src/GUI/Admission.java:58:	Local variable 'textPane_1' could be declared final
+src/GUI/Admission.java:58:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'textPane_1' is not final.
+src/GUI/Admission.java:62:	Local variable 'label_2' could be declared final
+src/GUI/Admission.java:62:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'label_2' is not final.
+src/GUI/Admission.java:66:	Local variable 'btnNewButton' could be declared final
+src/GUI/Admission.java:70:	Local variable 'button' could be declared final
+src/GUI/Admission.java:72:	Avoid variables with short names like e
+src/GUI/Admission.java:72:	Parameter 'e' is not assigned and could be declared final
+src/GUI/Admission.java:72:	publicMethodCommentRequirement Required
+src/GUI/Admission.java:79:	Local variable 'button_1' could be declared final
+src/GUI/Admission.java:79:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'button_1' is not final.
+src/GUI/Admission.java:81:	Avoid variables with short names like e
+src/GUI/Admission.java:81:	Parameter 'e' is not assigned and could be declared final
+src/GUI/Admission.java:81:	publicMethodCommentRequirement Required
+src/GUI/Admission.java:88:	Local variable 'label_3' could be declared final
+src/GUI/Admission.java:88:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'label_3' is not final.
+src/GUI/Condb.java:1:	Package name contains upper case characters
+src/GUI/Condb.java:4:	Avoid unused imports such as 'java.sql.Date'
+src/GUI/Condb.java:13:	All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/GUI/Condb.java:13:	headerCommentRequirement Required
+src/GUI/Condb.java:16:	publicMethodCommentRequirement Required
+src/GUI/Condb.java:21:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/GUI/Condb.java:21:	fieldCommentRequirement Required
+src/GUI/Condb.java:22:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/GUI/Condb.java:22:	fieldCommentRequirement Required
+src/GUI/Condb.java:23:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/GUI/Condb.java:23:	fieldCommentRequirement Required
+src/GUI/Condb.java:25:	publicMethodCommentRequirement Required
+src/GUI/Condb.java:29:	Avoid printStackTrace(); use a logger call instead.
+src/GUI/Condb.java:34:	Method names should not start with capital letters
+src/GUI/Condb.java:34:	publicMethodCommentRequirement Required
+src/GUI/Condb.java:36:	Local variable 'host' could be declared final
+src/GUI/Condb.java:37:	Local variable 'username' could be declared final
+src/GUI/Condb.java:38:	Local variable 'password' could be declared final
+src/GUI/Condb.java:41:	System.out.println is used
+src/GUI/Condb.java:44:	Avoid printStackTrace(); use a logger call instead.
+src/GUI/Condb.java:44:	Potential violation of Law of Demeter (object not created locally)
+src/GUI/Condb.java:48:	Avoid long parameter lists.
+src/GUI/Condb.java:48:	Parameter 'Securance' is not assigned and could be declared final
+src/GUI/Condb.java:48:	Parameter 'amka' is not assigned and could be declared final
+src/GUI/Condb.java:48:	Parameter 'bDate' is not assigned and could be declared final
+src/GUI/Condb.java:48:	Parameter 'fName' is not assigned and could be declared final
+src/GUI/Condb.java:48:	Parameter 'lName' is not assigned and could be declared final
+src/GUI/Condb.java:48:	Parameter 'name' is not assigned and could be declared final
+src/GUI/Condb.java:48:	Rather than using a lot of String arguments, consider using a container object for those values.
+src/GUI/Condb.java:48:	Variables should start with a lowercase character, 'Securance' starts with uppercase character.
+src/GUI/Condb.java:48:	publicMethodCommentRequirement Required
+src/GUI/Condb.java:49:	Parameter 'addres' is not assigned and could be declared final
+src/GUI/Condb.java:49:	Parameter 'city' is not assigned and could be declared final
+src/GUI/Condb.java:49:	Parameter 'gender' is not assigned and could be declared final
+src/GUI/Condb.java:49:	Parameter 'mphone' is not assigned and could be declared final
+src/GUI/Condb.java:49:	Parameter 'phone' is not assigned and could be declared final
+src/GUI/Condb.java:49:	Parameter 'postcode' is not assigned and could be declared final
+src/GUI/Condb.java:49:	Parameter 'status' is not assigned and could be declared final
+src/GUI/Condb.java:50:	Found 'DD'-anomaly for variable 'prst' (lines '50'-'54').
+src/GUI/Condb.java:51:	Local variable 'sqlInsert' could be declared final
+src/GUI/Condb.java:55:	Potential violation of Law of Demeter (object not created locally)
+src/GUI/Condb.java:56:	Potential violation of Law of Demeter (object not created locally)
+src/GUI/Condb.java:57:	Potential violation of Law of Demeter (object not created locally)
+src/GUI/Condb.java:58:	Potential violation of Law of Demeter (object not created locally)
+src/GUI/Condb.java:59:	Potential violation of Law of Demeter (object not created locally)
+src/GUI/Condb.java:60:	Potential violation of Law of Demeter (object not created locally)
+src/GUI/Condb.java:61:	Potential violation of Law of Demeter (object not created locally)
+src/GUI/Condb.java:62:	Potential violation of Law of Demeter (object not created locally)
+src/GUI/Condb.java:63:	Potential violation of Law of Demeter (object not created locally)
+src/GUI/Condb.java:64:	Potential violation of Law of Demeter (object not created locally)
+src/GUI/Condb.java:65:	Potential violation of Law of Demeter (object not created locally)
+src/GUI/Condb.java:66:	Potential violation of Law of Demeter (object not created locally)
+src/GUI/Condb.java:67:	Potential violation of Law of Demeter (object not created locally)
+src/GUI/Condb.java:69:	Potential violation of Law of Demeter (object not created locally)
+src/GUI/Condb.java:70:	System.out.println is used
+src/GUI/Condb.java:73:	Potential violation of Law of Demeter (object not created locally)
+src/GUI/Condb.java:73:	System.out.println is used
+src/GUI/Condb.java:78:	Avoid long parameter lists.
+src/GUI/Condb.java:78:	Method names should not start with capital letters
+src/GUI/Condb.java:78:	Parameter 'Securance' is not assigned and could be declared final
+src/GUI/Condb.java:78:	Parameter 'amka' is not assigned and could be declared final
+src/GUI/Condb.java:78:	Parameter 'bDate' is not assigned and could be declared final
+src/GUI/Condb.java:78:	Parameter 'fName' is not assigned and could be declared final
+src/GUI/Condb.java:78:	Parameter 'lName' is not assigned and could be declared final
+src/GUI/Condb.java:78:	Parameter 'name' is not assigned and could be declared final
+src/GUI/Condb.java:78:	Rather than using a lot of String arguments, consider using a container object for those values.
+src/GUI/Condb.java:78:	Variables should start with a lowercase character, 'Securance' starts with uppercase character.
+src/GUI/Condb.java:78:	publicMethodCommentRequirement Required
+src/GUI/Condb.java:79:	Avoid variables with short names like am
+src/GUI/Condb.java:79:	Parameter 'addres' is not assigned and could be declared final
+src/GUI/Condb.java:79:	Parameter 'am' is not assigned and could be declared final
+src/GUI/Condb.java:79:	Parameter 'city' is not assigned and could be declared final
+src/GUI/Condb.java:79:	Parameter 'mphone' is not assigned and could be declared final
+src/GUI/Condb.java:79:	Parameter 'phone' is not assigned and could be declared final
+src/GUI/Condb.java:79:	Parameter 'postcode' is not assigned and could be declared final
+src/GUI/Condb.java:79:	Parameter 'status' is not assigned and could be declared final
+src/GUI/Condb.java:80:	Found 'DD'-anomaly for variable 'prst' (lines '80'-'83').
+src/GUI/Condb.java:81:	Local variable 'sqlUpdate' could be declared final
+src/GUI/Condb.java:84:	Potential violation of Law of Demeter (object not created locally)
+src/GUI/Condb.java:85:	Potential violation of Law of Demeter (object not created locally)
+src/GUI/Condb.java:86:	Potential violation of Law of Demeter (object not created locally)
+src/GUI/Condb.java:87:	Potential violation of Law of Demeter (object not created locally)
+src/GUI/Condb.java:88:	Potential violation of Law of Demeter (object not created locally)
+src/GUI/Condb.java:89:	Potential violation of Law of Demeter (object not created locally)
+src/GUI/Condb.java:90:	Potential violation of Law of Demeter (object not created locally)
+src/GUI/Condb.java:91:	Potential violation of Law of Demeter (object not created locally)
+src/GUI/Condb.java:92:	Potential violation of Law of Demeter (object not created locally)
+src/GUI/Condb.java:93:	Potential violation of Law of Demeter (object not created locally)
+src/GUI/Condb.java:94:	Potential violation of Law of Demeter (object not created locally)
+src/GUI/Condb.java:95:	Potential violation of Law of Demeter (object not created locally)
+src/GUI/Condb.java:96:	Potential violation of Law of Demeter (object not created locally)
+src/GUI/Condb.java:98:	Potential violation of Law of Demeter (object not created locally)
+src/GUI/Condb.java:99:	System.out.println is used
+src/GUI/Condb.java:102:	Potential violation of Law of Demeter (object not created locally)
+src/GUI/Condb.java:102:	System.out.println is used
+src/GUI/Condb.java:107:	Parameter 'amka' is not assigned and could be declared final
+src/GUI/Condb.java:107:	publicMethodCommentRequirement Required
+src/GUI/Condb.java:108:	Found 'DD'-anomaly for variable 'data' (lines '108'-'120').
+src/GUI/Condb.java:109:	Found 'DU'-anomaly for variable 'formater' (lines '109'-'142').
+src/GUI/Condb.java:109:	Local variable 'formater' could be declared final
+src/GUI/Condb.java:109:	When instantiating a SimpleDateFormat object, specify a Locale
+src/GUI/Condb.java:110:	System.out.println is used
+src/GUI/Condb.java:113:	Local variable 'Statement1' could be declared final
+src/GUI/Condb.java:113:	Variables should start with a lowercase character, 'Statement1' starts with uppercase character.
+src/GUI/Condb.java:114:	Potential violation of Law of Demeter (object not created locally)
+src/GUI/Condb.java:116:	Ensure that resources like this ResultSet object are closed after use
+src/GUI/Condb.java:116:	Local variable 'res' could be declared final
+src/GUI/Condb.java:116:	Potential violation of Law of Demeter (object not created locally)
+src/GUI/Condb.java:118:	Potential violation of Law of Demeter (object not created locally)
+src/GUI/Condb.java:119:	System.out.println is used
+src/GUI/Condb.java:120:	Found 'DD'-anomaly for variable 'data' (lines '120'-'121').
+src/GUI/Condb.java:120:	Potential violation of Law of Demeter (object not created locally)
+src/GUI/Condb.java:121:	Found 'DD'-anomaly for variable 'data' (lines '121'-'122').
+src/GUI/Condb.java:121:	Potential violation of Law of Demeter (object not created locally)
+src/GUI/Condb.java:122:	Found 'DD'-anomaly for variable 'data' (lines '122'-'123').
+src/GUI/Condb.java:122:	Potential violation of Law of Demeter (object not created locally)
+src/GUI/Condb.java:123:	Found 'DD'-anomaly for variable 'data' (lines '123'-'124').
+src/GUI/Condb.java:123:	Potential violation of Law of Demeter (object not created locally)
+src/GUI/Condb.java:123:	Potential violation of Law of Demeter (object not created locally)
+src/GUI/Condb.java:124:	Found 'DD'-anomaly for variable 'data' (lines '124'-'125').
+src/GUI/Condb.java:124:	Potential violation of Law of Demeter (object not created locally)
+src/GUI/Condb.java:125:	Found 'DD'-anomaly for variable 'data' (lines '125'-'126').
+src/GUI/Condb.java:125:	Potential violation of Law of Demeter (object not created locally)
+src/GUI/Condb.java:126:	Found 'DD'-anomaly for variable 'data' (lines '126'-'127').
+src/GUI/Condb.java:126:	Potential violation of Law of Demeter (object not created locally)
+src/GUI/Condb.java:127:	Found 'DD'-anomaly for variable 'data' (lines '127'-'128').
+src/GUI/Condb.java:127:	Potential violation of Law of Demeter (object not created locally)
+src/GUI/Condb.java:128:	Found 'DD'-anomaly for variable 'data' (lines '128'-'129').
+src/GUI/Condb.java:128:	Potential violation of Law of Demeter (object not created locally)
+src/GUI/Condb.java:129:	Found 'DD'-anomaly for variable 'data' (lines '129'-'130').
+src/GUI/Condb.java:129:	Potential violation of Law of Demeter (object not created locally)
+src/GUI/Condb.java:130:	Found 'DD'-anomaly for variable 'data' (lines '130'-'131').
+src/GUI/Condb.java:130:	Potential violation of Law of Demeter (object not created locally)
+src/GUI/Condb.java:131:	Found 'DD'-anomaly for variable 'data' (lines '131'-'132').
+src/GUI/Condb.java:131:	Potential violation of Law of Demeter (object not created locally)
+src/GUI/Condb.java:132:	Found 'DD'-anomaly for variable 'data' (lines '132'-'133').
+src/GUI/Condb.java:132:	Potential violation of Law of Demeter (object not created locally)
+src/GUI/Condb.java:133:	Potential violation of Law of Demeter (object not created locally)
+src/GUI/Condb.java:135:	Potential violation of Law of Demeter (method chain calls)
+src/GUI/Condb.java:135:	Potential violation of Law of Demeter (method chain calls)
+src/GUI/Condb.java:135:	System.out.println is used
+src/GUI/Condb.java:138:	Avoid empty catch blocks
+src/GUI/Condb.java:138:	Avoid empty catch blocks
+src/GUI/Condb.java:144:	Comment is too large: Line too long
+src/GUI/Condb.java:144:	Comment is too large: Too many lines
+src/GUI/Condb.java:146:	Comment is too large: Line too long
+src/GUI/Condb.java:165:	Avoid variables with short names like pa
+src/GUI/Condb.java:165:	Avoid variables with short names like un
+src/GUI/Condb.java:165:	Parameter 'pa' is not assigned and could be declared final
+src/GUI/Condb.java:165:	Parameter 'un' is not assigned and could be declared final
+src/GUI/Condb.java:165:	publicMethodCommentRequirement Required
+src/GUI/Condb.java:166:	Found 'DD'-anomaly for variable 'data' (lines '166'-'180').
+src/GUI/Condb.java:167:	System.out.println is used
+src/GUI/Condb.java:170:	Local variable 'Statement1' could be declared final
+src/GUI/Condb.java:170:	Variables should start with a lowercase character, 'Statement1' starts with uppercase character.
+src/GUI/Condb.java:171:	Potential violation of Law of Demeter (object not created locally)
+src/GUI/Condb.java:172:	Potential violation of Law of Demeter (object not created locally)
+src/GUI/Condb.java:173:	Ensure that resources like this ResultSet object are closed after use
+src/GUI/Condb.java:173:	Local variable 'res' could be declared final
+src/GUI/Condb.java:173:	Potential violation of Law of Demeter (object not created locally)
+src/GUI/Condb.java:174:	Potential violation of Law of Demeter (object not created locally)
+src/GUI/Condb.java:174:	System.out.println is used
+src/GUI/Condb.java:178:	Potential violation of Law of Demeter (object not created locally)
+src/GUI/Condb.java:180:	Do not add empty strings
+src/GUI/Condb.java:180:	Found 'DD'-anomaly for variable 'data' (lines '180'-'181').
+src/GUI/Condb.java:180:	Potential violation of Law of Demeter (object not created locally)
+src/GUI/Condb.java:181:	Found 'DD'-anomaly for variable 'data' (lines '181'-'182').
+src/GUI/Condb.java:181:	Potential violation of Law of Demeter (object not created locally)
+src/GUI/Condb.java:182:	Found 'DD'-anomaly for variable 'data' (lines '182'-'183').
+src/GUI/Condb.java:182:	Potential violation of Law of Demeter (object not created locally)
+src/GUI/Condb.java:183:	Do not add empty strings
+src/GUI/Condb.java:183:	Potential violation of Law of Demeter (object not created locally)
+src/GUI/Condb.java:184:	Potential violation of Law of Demeter (method chain calls)
+src/GUI/Condb.java:184:	Potential violation of Law of Demeter (method chain calls)
+src/GUI/Condb.java:184:	Potential violation of Law of Demeter (method chain calls)
+src/GUI/Condb.java:184:	System.out.println is used
+src/GUI/Condb.java:187:	Avoid empty catch blocks
+src/GUI/Condb.java:187:	Avoid empty catch blocks
+src/GUI/Condb.java:193:	JUnit 4 tests that execute tests should use the @Test annotation
+src/GUI/Condb.java:193:	publicMethodCommentRequirement Required
+src/GUI/Condb.java:200:	Local variable 'name' could be declared final
+src/GUI/Condb.java:201:	Local variable 'lName' could be declared final
+src/GUI/Condb.java:203:	System.out.println is used
+src/GUI/Condb.java:206:	Avoid empty catch blocks
+src/GUI/Condb.java:206:	Avoid empty catch blocks
+src/GUI/Discharge.java:1:	Package name contains upper case characters
+src/GUI/Discharge.java:15:	Avoid unused imports such as 'java.text.Format'
+src/GUI/Discharge.java:19:	headerCommentRequirement Required
+src/GUI/Discharge.java:20:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GUI/Discharge.java:20:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'table_1' is not final.
+src/GUI/Discharge.java:20:	Perhaps 'table_1' could be replaced by a local variable.
+src/GUI/Discharge.java:20:	Private field 'table_1' could be made final; it is only initialized in the declaration or constructor.
+src/GUI/Discharge.java:20:	fieldCommentRequirement Required
+src/GUI/Discharge.java:21:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GUI/Discharge.java:21:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'table_2' is not final.
+src/GUI/Discharge.java:21:	Perhaps 'table_2' could be replaced by a local variable.
+src/GUI/Discharge.java:21:	Private field 'table_2' could be made final; it is only initialized in the declaration or constructor.
+src/GUI/Discharge.java:21:	fieldCommentRequirement Required
+src/GUI/Discharge.java:26:	Avoid variables with short names like s
+src/GUI/Discharge.java:26:	It is a good practice to call super() in a constructor
+src/GUI/Discharge.java:26:	Parameter 's' is not assigned and could be declared final
+src/GUI/Discharge.java:31:	Local variable 'panel' could be declared final
+src/GUI/Discharge.java:41:	Local variable 'scrollPane2' could be declared final
+src/GUI/Discharge.java:59:	Local variable 'model' could be declared final
+src/GUI/Discharge.java:60:	Local variable 'btnNewButton' could be declared final
+src/GUI/Discharge.java:63:	Avoid variables with short names like e
+src/GUI/Discharge.java:63:	Parameter 'e' is not assigned and could be declared final
+src/GUI/Discharge.java:63:	publicMethodCommentRequirement Required
+src/GUI/Discharge.java:69:	Local variable 'label_1' could be declared final
+src/GUI/Discharge.java:69:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'label_1' is not final.
+src/GUI/Discharge.java:73:	Local variable 'btnRemove' could be declared final
+src/GUI/Discharge.java:76:	Avoid variables with short names like e
+src/GUI/Discharge.java:76:	Parameter 'e' is not assigned and could be declared final
+src/GUI/Discharge.java:76:	publicMethodCommentRequirement Required
+src/GUI/Discharge.java:84:	Local variable 'scrollPane' could be declared final
+src/GUI/Discharge.java:102:	Local variable 'model2' could be declared final
+src/GUI/Discharge.java:105:	Local variable 'button' could be declared final
+src/GUI/Discharge.java:107:	Parameter 'arg0' is not assigned and could be declared final
+src/GUI/Discharge.java:107:	publicMethodCommentRequirement Required
+src/GUI/Discharge.java:114:	Local variable 'label_3' could be declared final
+src/GUI/Discharge.java:114:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'label_3' is not final.
+src/GUI/Discharge.java:118:	Local variable 'button_1' could be declared final
+src/GUI/Discharge.java:118:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'button_1' is not final.
+src/GUI/Discharge.java:120:	Avoid variables with short names like e
+src/GUI/Discharge.java:120:	Parameter 'e' is not assigned and could be declared final
+src/GUI/Discharge.java:120:	publicMethodCommentRequirement Required
+src/GUI/Discharge.java:127:	Local variable 'textPane' could be declared final
+src/GUI/Discharge.java:131:	Local variable 'label' could be declared final
+src/GUI/Discharge.java:135:	Local variable 'btnNewButton_1' could be declared final
+src/GUI/Discharge.java:135:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'btnNewButton_1' is not final.
+src/GUI/Discharge.java:139:	Local variable 'btnNewButton_2' could be declared final
+src/GUI/Discharge.java:139:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'btnNewButton_2' is not final.
+src/GUI/Discharge.java:141:	Avoid variables with short names like e
+src/GUI/Discharge.java:141:	Parameter 'e' is not assigned and could be declared final
+src/GUI/Discharge.java:141:	publicMethodCommentRequirement Required
+src/GUI/Discharge.java:148:	Local variable 'btnNewButton_3' could be declared final
+src/GUI/Discharge.java:148:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'btnNewButton_3' is not final.
+src/GUI/Discharge.java:150:	Avoid variables with short names like e
+src/GUI/Discharge.java:150:	Parameter 'e' is not assigned and could be declared final
+src/GUI/Discharge.java:150:	publicMethodCommentRequirement Required
+src/GUI/Discharge.java:157:	Avoid excessively long variable names like formattedTextField
+src/GUI/Discharge.java:157:	Local variable 'formattedTextField' could be declared final
+src/GUI/Discharge.java:157:	When instantiating a SimpleDateFormat object, specify a Locale
+src/GUI/Discharge.java:162:	Local variable 'label_2' could be declared final
+src/GUI/Discharge.java:162:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'label_2' is not final.
+src/GUI/Discharge.java:166:	Local variable 'lblNewLabel' could be declared final
+src/GUI/Edit.java:1:	Package name contains upper case characters
+src/GUI/Edit.java:8:	Avoid unused imports such as 'javax.swing.JRadioButton'
+src/GUI/Edit.java:13:	Avoid short class names like Edit
+src/GUI/Edit.java:13:	headerCommentRequirement Required
+src/GUI/Edit.java:14:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GUI/Edit.java:14:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'textField_name' is not final.
+src/GUI/Edit.java:14:	Private field 'textField_name' could be made final; it is only initialized in the declaration or constructor.
+src/GUI/Edit.java:14:	fieldCommentRequirement Required
+src/GUI/Edit.java:15:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GUI/Edit.java:15:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'textField_surname' is not final.
+src/GUI/Edit.java:15:	Private field 'textField_surname' could be made final; it is only initialized in the declaration or constructor.
+src/GUI/Edit.java:15:	fieldCommentRequirement Required
+src/GUI/Edit.java:16:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GUI/Edit.java:16:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'textField_father' is not final.
+src/GUI/Edit.java:16:	Private field 'textField_father' could be made final; it is only initialized in the declaration or constructor.
+src/GUI/Edit.java:16:	fieldCommentRequirement Required
+src/GUI/Edit.java:17:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GUI/Edit.java:17:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'textField_date' is not final.
+src/GUI/Edit.java:17:	Private field 'textField_date' could be made final; it is only initialized in the declaration or constructor.
+src/GUI/Edit.java:17:	fieldCommentRequirement Required
+src/GUI/Edit.java:18:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GUI/Edit.java:18:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'textField_amka' is not final.
+src/GUI/Edit.java:18:	Private field 'textField_amka' could be made final; it is only initialized in the declaration or constructor.
+src/GUI/Edit.java:18:	fieldCommentRequirement Required
+src/GUI/Edit.java:19:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GUI/Edit.java:19:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'textField_asf' is not final.
+src/GUI/Edit.java:19:	Private field 'textField_asf' could be made final; it is only initialized in the declaration or constructor.
+src/GUI/Edit.java:19:	fieldCommentRequirement Required
+src/GUI/Edit.java:20:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GUI/Edit.java:20:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'textField_til' is not final.
+src/GUI/Edit.java:20:	Private field 'textField_til' could be made final; it is only initialized in the declaration or constructor.
+src/GUI/Edit.java:20:	fieldCommentRequirement Required
+src/GUI/Edit.java:21:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GUI/Edit.java:21:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'textField_kin' is not final.
+src/GUI/Edit.java:21:	Private field 'textField_kin' could be made final; it is only initialized in the declaration or constructor.
+src/GUI/Edit.java:21:	fieldCommentRequirement Required
+src/GUI/Edit.java:22:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GUI/Edit.java:22:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'textField_city' is not final.
+src/GUI/Edit.java:22:	Private field 'textField_city' could be made final; it is only initialized in the declaration or constructor.
+src/GUI/Edit.java:22:	fieldCommentRequirement Required
+src/GUI/Edit.java:23:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GUI/Edit.java:23:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'textField_adress' is not final.
+src/GUI/Edit.java:23:	Private field 'textField_adress' could be made final; it is only initialized in the declaration or constructor.
+src/GUI/Edit.java:23:	fieldCommentRequirement Required
+src/GUI/Edit.java:24:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GUI/Edit.java:24:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'textField_tk' is not final.
+src/GUI/Edit.java:24:	Private field 'textField_tk' could be made final; it is only initialized in the declaration or constructor.
+src/GUI/Edit.java:24:	fieldCommentRequirement Required
+src/GUI/Edit.java:25:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GUI/Edit.java:25:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'textField_status' is not final.
+src/GUI/Edit.java:25:	Private field 'textField_status' could be made final; it is only initialized in the declaration or constructor.
+src/GUI/Edit.java:25:	fieldCommentRequirement Required
+src/GUI/Edit.java:26:	Avoid variables with short names like am
+src/GUI/Edit.java:26:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GUI/Edit.java:26:	Private field 'am' could be made final; it is only initialized in the declaration or constructor.
+src/GUI/Edit.java:26:	fieldCommentRequirement Required
+src/GUI/Edit.java:27:	Avoid variables with short names like ms
+src/GUI/Edit.java:27:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GUI/Edit.java:27:	Private field 'ms' could be made final; it is only initialized in the declaration or constructor.
+src/GUI/Edit.java:27:	fieldCommentRequirement Required
+src/GUI/Edit.java:32:	Avoid variables with short names like s
+src/GUI/Edit.java:32:	Avoid variables with short names like s2
+src/GUI/Edit.java:32:	It is a good practice to call super() in a constructor
+src/GUI/Edit.java:32:	Parameter 's' is not assigned and could be declared final
+src/GUI/Edit.java:32:	Parameter 's2' is not assigned and could be declared final
+src/GUI/Edit.java:32:	The constructor with 2 parameters has an NCSS line count of 126
+src/GUI/Edit.java:36:	System.out.println is used
+src/GUI/Edit.java:37:	Local variable 'label' could be declared final
+src/GUI/Edit.java:39:	The String literal "Tahoma" appears 25 times in this file; the first occurrence is on line 39
+src/GUI/Edit.java:48:	Local variable 'label_1' could be declared final
+src/GUI/Edit.java:48:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'label_1' is not final.
+src/GUI/Edit.java:59:	Local variable 'label_2' could be declared final
+src/GUI/Edit.java:59:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'label_2' is not final.
+src/GUI/Edit.java:70:	Local variable 'label_3' could be declared final
+src/GUI/Edit.java:70:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'label_3' is not final.
+src/GUI/Edit.java:82:	Local variable 'label_4' could be declared final
+src/GUI/Edit.java:82:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'label_4' is not final.
+src/GUI/Edit.java:93:	Local variable 'label_5' could be declared final
+src/GUI/Edit.java:93:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'label_5' is not final.
+src/GUI/Edit.java:105:	Local variable 'label_6' could be declared final
+src/GUI/Edit.java:105:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'label_6' is not final.
+src/GUI/Edit.java:117:	Local variable 'label_7' could be declared final
+src/GUI/Edit.java:117:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'label_7' is not final.
+src/GUI/Edit.java:128:	Local variable 'label_8' could be declared final
+src/GUI/Edit.java:128:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'label_8' is not final.
+src/GUI/Edit.java:139:	Local variable 'label_9' could be declared final
+src/GUI/Edit.java:139:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'label_9' is not final.
+src/GUI/Edit.java:151:	Local variable 'label_10' could be declared final
+src/GUI/Edit.java:151:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'label_10' is not final.
+src/GUI/Edit.java:162:	Local variable 'button_ok' could be declared final
+src/GUI/Edit.java:162:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'button_ok' is not final.
+src/GUI/Edit.java:164:	Avoid variables with short names like e
+src/GUI/Edit.java:164:	Parameter 'e' is not assigned and could be declared final
+src/GUI/Edit.java:164:	publicMethodCommentRequirement Required
+src/GUI/Edit.java:172:	Avoid variables with short names like e
+src/GUI/Edit.java:172:	Parameter 'e' is not assigned and could be declared final
+src/GUI/Edit.java:172:	publicMethodCommentRequirement Required
+src/GUI/Edit.java:183:	Local variable 'button_cancel' could be declared final
+src/GUI/Edit.java:183:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'button_cancel' is not final.
+src/GUI/Edit.java:185:	Parameter 'arg0' is not assigned and could be declared final
+src/GUI/Edit.java:185:	publicMethodCommentRequirement Required
+src/GUI/Edit.java:192:	Local variable 'label_12' could be declared final
+src/GUI/Edit.java:192:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'label_12' is not final.
+src/GUI/Edit.java:198:	Local variable 'label_11' could be declared final
+src/GUI/Edit.java:198:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'label_11' is not final.
+src/GUI/History.java:1:	Package name contains upper case characters
+src/GUI/History.java:13:	Avoid unused imports such as 'javax.swing.JTextPane'
+src/GUI/History.java:16:	Avoid unused imports such as 'javax.swing.table.TableModel'
+src/GUI/History.java:18:	headerCommentRequirement Required
+src/GUI/History.java:23:	Avoid unused constructor parameters such as 's'.
+src/GUI/History.java:23:	Avoid variables with short names like s
+src/GUI/History.java:23:	It is a good practice to call super() in a constructor
+src/GUI/History.java:23:	Parameter 's' is not assigned and could be declared final
+src/GUI/History.java:29:	Local variable 'panel1' could be declared final
+src/GUI/History.java:36:	Local variable 'date' could be declared final
+src/GUI/History.java:49:	Local variable 'datelistpane' could be declared final
+src/GUI/History.java:54:	Local variable 'label' could be declared final
+src/GUI/History.java:59:	Local variable 'textArea' could be declared final
+src/GUI/History.java:67:	Local variable 'label_1' could be declared final
+src/GUI/History.java:67:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'label_1' is not final.
+src/GUI/History.java:71:	Local variable 'textArea_1' could be declared final
+src/GUI/History.java:71:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'textArea_1' is not final.
+src/GUI/History.java:79:	Local variable 'label_2' could be declared final
+src/GUI/History.java:79:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'label_2' is not final.
+src/GUI/History.java:83:	Local variable 'textArea_2' could be declared final
+src/GUI/History.java:83:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'textArea_2' is not final.
+src/GUI/History.java:91:	Local variable 'label_3' could be declared final
+src/GUI/History.java:91:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'label_3' is not final.
+src/GUI/History.java:95:	Local variable 'scrollPane' could be declared final
+src/GUI/History.java:100:	Found 'DU'-anomaly for variable 'table_1' (lines '100'-'154').
+src/GUI/History.java:100:	Local variable 'table_1' could be declared final
+src/GUI/History.java:100:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'table_1' is not final.
+src/GUI/History.java:112:	Found 'DU'-anomaly for variable 'columnEditables' (lines '112'-'154').
+src/GUI/History.java:112:	fieldCommentRequirement Required
+src/GUI/History.java:115:	Parameter 'column' is not assigned and could be declared final
+src/GUI/History.java:115:	Parameter 'row' is not assigned and could be declared final
+src/GUI/History.java:115:	publicMethodCommentRequirement Required
+src/GUI/History.java:123:	Local variable 'label_4' could be declared final
+src/GUI/History.java:123:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'label_4' is not final.
+src/GUI/History.java:128:	Local variable 'scrollPane2' could be declared final
+src/GUI/History.java:132:	Local variable 'table_2' could be declared final
+src/GUI/History.java:132:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'table_2' is not final.
+src/GUI/History.java:147:	Local variable 'label_5' could be declared final
+src/GUI/History.java:147:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'label_5' is not final.
+src/GUI/History.java:151:	Local variable 'label_6' could be declared final
+src/GUI/History.java:151:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'label_6' is not final.
+src/GUI/Main_screen.java:1:	Package name contains upper case characters
+src/GUI/Main_screen.java:10:	Avoid unused imports such as 'javax.swing.JLayeredPane'
+src/GUI/Main_screen.java:12:	headerCommentRequirement Required
+src/GUI/Main_screen.java:18:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GUI/Main_screen.java:18:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'label_gender' is not final.
+src/GUI/Main_screen.java:18:	Use explicit scoping instead of the default package private level
+src/GUI/Main_screen.java:20:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GUI/Main_screen.java:20:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'label_tk' is not final.
+src/GUI/Main_screen.java:20:	Use explicit scoping instead of the default package private level
+src/GUI/Main_screen.java:20:	fieldCommentRequirement Required
+src/GUI/Main_screen.java:22:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GUI/Main_screen.java:22:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'label_adress' is not final.
+src/GUI/Main_screen.java:22:	Use explicit scoping instead of the default package private level
+src/GUI/Main_screen.java:22:	fieldCommentRequirement Required
+src/GUI/Main_screen.java:24:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GUI/Main_screen.java:24:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'label_city' is not final.
+src/GUI/Main_screen.java:24:	Use explicit scoping instead of the default package private level
+src/GUI/Main_screen.java:24:	fieldCommentRequirement Required
+src/GUI/Main_screen.java:26:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GUI/Main_screen.java:26:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'label_kin' is not final.
+src/GUI/Main_screen.java:26:	Use explicit scoping instead of the default package private level
+src/GUI/Main_screen.java:26:	fieldCommentRequirement Required
+src/GUI/Main_screen.java:28:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GUI/Main_screen.java:28:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'label_til' is not final.
+src/GUI/Main_screen.java:28:	Use explicit scoping instead of the default package private level
+src/GUI/Main_screen.java:28:	fieldCommentRequirement Required
+src/GUI/Main_screen.java:30:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GUI/Main_screen.java:30:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'label_asf' is not final.
+src/GUI/Main_screen.java:30:	Use explicit scoping instead of the default package private level
+src/GUI/Main_screen.java:30:	fieldCommentRequirement Required
+src/GUI/Main_screen.java:32:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GUI/Main_screen.java:32:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'label_amka' is not final.
+src/GUI/Main_screen.java:32:	Use explicit scoping instead of the default package private level
+src/GUI/Main_screen.java:32:	fieldCommentRequirement Required
+src/GUI/Main_screen.java:34:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GUI/Main_screen.java:34:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'label_birthday' is not final.
+src/GUI/Main_screen.java:34:	Use explicit scoping instead of the default package private level
+src/GUI/Main_screen.java:34:	fieldCommentRequirement Required
+src/GUI/Main_screen.java:36:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GUI/Main_screen.java:36:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'label_father' is not final.
+src/GUI/Main_screen.java:36:	Use explicit scoping instead of the default package private level
+src/GUI/Main_screen.java:36:	fieldCommentRequirement Required
+src/GUI/Main_screen.java:38:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GUI/Main_screen.java:38:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'label_surname' is not final.
+src/GUI/Main_screen.java:38:	Use explicit scoping instead of the default package private level
+src/GUI/Main_screen.java:38:	fieldCommentRequirement Required
+src/GUI/Main_screen.java:40:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GUI/Main_screen.java:40:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'label_name' is not final.
+src/GUI/Main_screen.java:40:	Use explicit scoping instead of the default package private level
+src/GUI/Main_screen.java:40:	fieldCommentRequirement Required
+src/GUI/Main_screen.java:42:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GUI/Main_screen.java:42:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'label_am' is not final.
+src/GUI/Main_screen.java:42:	Use explicit scoping instead of the default package private level
+src/GUI/Main_screen.java:42:	fieldCommentRequirement Required
+src/GUI/Main_screen.java:44:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GUI/Main_screen.java:44:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'label_status' is not final.
+src/GUI/Main_screen.java:44:	Use explicit scoping instead of the default package private level
+src/GUI/Main_screen.java:44:	fieldCommentRequirement Required
+src/GUI/Main_screen.java:46:	Avoid variables with short names like s
+src/GUI/Main_screen.java:46:	It is a good practice to call super() in a constructor
+src/GUI/Main_screen.java:46:	Parameter 's' is not assigned and could be declared final
+src/GUI/Main_screen.java:46:	The constructor with 1 parameters has an NCSS line count of 168
+src/GUI/Main_screen.java:46:	publicMethodCommentRequirement Required
+src/GUI/Main_screen.java:49:	Local variable 'button' could be declared final
+src/GUI/Main_screen.java:51:	Avoid variables with short names like e
+src/GUI/Main_screen.java:51:	Parameter 'e' is not assigned and could be declared final
+src/GUI/Main_screen.java:51:	publicMethodCommentRequirement Required
+src/GUI/Main_screen.java:52:	System.exit() should not be used in J2EE/JEE apps
+src/GUI/Main_screen.java:58:	Local variable 'button_edit' could be declared final
+src/GUI/Main_screen.java:58:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'button_edit' is not final.
+src/GUI/Main_screen.java:60:	Parameter 'arg0' is not assigned and could be declared final
+src/GUI/Main_screen.java:60:	publicMethodCommentRequirement Required
+src/GUI/Main_screen.java:69:	Local variable 'label' could be declared final
+src/GUI/Main_screen.java:71:	The String literal "Tahoma" appears 29 times in this file; the first occurrence is on line 71
+src/GUI/Main_screen.java:75:	Local variable 'label_1' could be declared final
+src/GUI/Main_screen.java:75:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'label_1' is not final.
+src/GUI/Main_screen.java:81:	Local variable 'label_2' could be declared final
+src/GUI/Main_screen.java:81:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'label_2' is not final.
+src/GUI/Main_screen.java:87:	Local variable 'label_3' could be declared final
+src/GUI/Main_screen.java:87:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'label_3' is not final.
+src/GUI/Main_screen.java:94:	Local variable 'label_4' could be declared final
+src/GUI/Main_screen.java:94:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'label_4' is not final.
+src/GUI/Main_screen.java:100:	Local variable 'label_5' could be declared final
+src/GUI/Main_screen.java:100:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'label_5' is not final.
+src/GUI/Main_screen.java:107:	Local variable 'label_6' could be declared final
+src/GUI/Main_screen.java:107:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'label_6' is not final.
+src/GUI/Main_screen.java:114:	Local variable 'label_7' could be declared final
+src/GUI/Main_screen.java:114:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'label_7' is not final.
+src/GUI/Main_screen.java:120:	Local variable 'label_8' could be declared final
+src/GUI/Main_screen.java:120:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'label_8' is not final.
+src/GUI/Main_screen.java:127:	Local variable 'label_9' could be declared final
+src/GUI/Main_screen.java:127:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'label_9' is not final.
+src/GUI/Main_screen.java:133:	Local variable 'label_10' could be declared final
+src/GUI/Main_screen.java:133:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'label_10' is not final.
+src/GUI/Main_screen.java:139:	Local variable 'label_11' could be declared final
+src/GUI/Main_screen.java:139:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'label_11' is not final.
+src/GUI/Main_screen.java:208:	Local variable 'button_search' could be declared final
+src/GUI/Main_screen.java:208:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'button_search' is not final.
+src/GUI/Main_screen.java:214:	Local variable 'button_new' could be declared final
+src/GUI/Main_screen.java:214:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'button_new' is not final.
+src/GUI/Main_screen.java:217:	Parameter 'arg0' is not assigned and could be declared final
+src/GUI/Main_screen.java:217:	publicMethodCommentRequirement Required
+src/GUI/Main_screen.java:225:	Local variable 'button_4' could be declared final
+src/GUI/Main_screen.java:225:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'button_4' is not final.
+src/GUI/Main_screen.java:227:	Parameter 'arg0' is not assigned and could be declared final
+src/GUI/Main_screen.java:227:	publicMethodCommentRequirement Required
+src/GUI/Main_screen.java:234:	Local variable 'button_history' could be declared final
+src/GUI/Main_screen.java:234:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'button_history' is not final.
+src/GUI/Main_screen.java:237:	Avoid variables with short names like e
+src/GUI/Main_screen.java:237:	Parameter 'e' is not assigned and could be declared final
+src/GUI/Main_screen.java:237:	publicMethodCommentRequirement Required
+src/GUI/Main_screen.java:244:	Local variable 'button_admittion' could be declared final
+src/GUI/Main_screen.java:244:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'button_admittion' is not final.
+src/GUI/Main_screen.java:246:	Parameter 'arg0' is not assigned and could be declared final
+src/GUI/Main_screen.java:246:	publicMethodCommentRequirement Required
+src/GUI/Main_screen.java:253:	Local variable 'button_discharge' could be declared final
+src/GUI/Main_screen.java:253:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'button_discharge' is not final.
+src/GUI/Main_screen.java:255:	Avoid variables with short names like e
+src/GUI/Main_screen.java:255:	Parameter 'e' is not assigned and could be declared final
+src/GUI/Main_screen.java:255:	publicMethodCommentRequirement Required
+src/GUI/Main_screen.java:262:	Local variable 'button_visit' could be declared final
+src/GUI/Main_screen.java:262:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'button_visit' is not final.
+src/GUI/Main_screen.java:264:	Avoid variables with short names like e
+src/GUI/Main_screen.java:264:	Parameter 'e' is not assigned and could be declared final
+src/GUI/Main_screen.java:264:	publicMethodCommentRequirement Required
+src/GUI/Main_screen.java:272:	Local variable 'label_24' could be declared final
+src/GUI/Main_screen.java:272:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'label_24' is not final.
+src/GUI/Main_screen.java:283:	Local variable 'lblNewLabel' could be declared final
+src/GUI/Main_screen.java:289:	Local variable 'label_13' could be declared final
+src/GUI/Main_screen.java:289:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'label_13' is not final.
+src/GUI/Main_screen.java:302:	Consider using varargs for methods or constructors which take an array the last parameter.
+src/GUI/Main_screen.java:302:	Method names should not start with capital letters
+src/GUI/Main_screen.java:302:	Parameter 'data' is not assigned and could be declared final
+src/GUI/Main_screen.java:302:	publicMethodCommentRequirement Required
+src/GUI/Main_screen.java:303:	Potential violation of Law of Demeter (method chain calls)
+src/GUI/Main_screen.java:304:	Potential violation of Law of Demeter (method chain calls)
+src/GUI/Main_screen.java:305:	Potential violation of Law of Demeter (method chain calls)
+src/GUI/Main_screen.java:306:	Potential violation of Law of Demeter (method chain calls)
+src/GUI/Main_screen.java:307:	Potential violation of Law of Demeter (method chain calls)
+src/GUI/Main_screen.java:308:	Potential violation of Law of Demeter (method chain calls)
+src/GUI/Main_screen.java:309:	Potential violation of Law of Demeter (method chain calls)
+src/GUI/Main_screen.java:310:	Potential violation of Law of Demeter (method chain calls)
+src/GUI/Main_screen.java:311:	Potential violation of Law of Demeter (method chain calls)
+src/GUI/Main_screen.java:312:	Potential violation of Law of Demeter (method chain calls)
+src/GUI/Main_screen.java:313:	Potential violation of Law of Demeter (method chain calls)
+src/GUI/Main_screen.java:314:	Potential violation of Law of Demeter (method chain calls)
+src/GUI/Main_screen.java:314:	Potential violation of Law of Demeter (method chain calls)
+src/GUI/Main_screen.java:315:	Potential violation of Law of Demeter (method chain calls)
+src/GUI/Main_screen.java:316:	Potential violation of Law of Demeter (method chain calls)
+src/GUI/Main_screen.java:322:	Avoid variables with short names like e
+src/GUI/Main_screen.java:322:	Parameter 'e' is not assigned and could be declared final
+src/GUI/Main_screen.java:322:	publicMethodCommentRequirement Required
+src/GUI/New_Folder.java:1:	Package name contains upper case characters
+src/GUI/New_Folder.java:3:	Avoid unused imports such as 'java.awt.BorderLayout'
+src/GUI/New_Folder.java:4:	Avoid unused imports such as 'java.awt.EventQueue'
+src/GUI/New_Folder.java:19:	headerCommentRequirement Required
+src/GUI/New_Folder.java:21:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GUI/New_Folder.java:21:	Perhaps 'contentPane' could be replaced by a local variable.
+src/GUI/New_Folder.java:21:	Private field 'contentPane' could be made final; it is only initialized in the declaration or constructor.
+src/GUI/New_Folder.java:21:	fieldCommentRequirement Required
+src/GUI/New_Folder.java:22:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GUI/New_Folder.java:22:	Private field 'textField' could be made final; it is only initialized in the declaration or constructor.
+src/GUI/New_Folder.java:22:	fieldCommentRequirement Required
+src/GUI/New_Folder.java:23:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GUI/New_Folder.java:23:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'textField_1' is not final.
+src/GUI/New_Folder.java:23:	Private field 'textField_1' could be made final; it is only initialized in the declaration or constructor.
+src/GUI/New_Folder.java:23:	fieldCommentRequirement Required
+src/GUI/New_Folder.java:24:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GUI/New_Folder.java:24:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'textField_2' is not final.
+src/GUI/New_Folder.java:24:	Private field 'textField_2' could be made final; it is only initialized in the declaration or constructor.
+src/GUI/New_Folder.java:24:	fieldCommentRequirement Required
+src/GUI/New_Folder.java:25:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GUI/New_Folder.java:25:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'textField_3' is not final.
+src/GUI/New_Folder.java:25:	Private field 'textField_3' could be made final; it is only initialized in the declaration or constructor.
+src/GUI/New_Folder.java:25:	fieldCommentRequirement Required
+src/GUI/New_Folder.java:26:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GUI/New_Folder.java:26:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'textField_4' is not final.
+src/GUI/New_Folder.java:26:	Private field 'textField_4' could be made final; it is only initialized in the declaration or constructor.
+src/GUI/New_Folder.java:26:	fieldCommentRequirement Required
+src/GUI/New_Folder.java:27:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GUI/New_Folder.java:27:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'textField_5' is not final.
+src/GUI/New_Folder.java:27:	Private field 'textField_5' could be made final; it is only initialized in the declaration or constructor.
+src/GUI/New_Folder.java:27:	fieldCommentRequirement Required
+src/GUI/New_Folder.java:28:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GUI/New_Folder.java:28:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'textField_6' is not final.
+src/GUI/New_Folder.java:28:	Private field 'textField_6' could be made final; it is only initialized in the declaration or constructor.
+src/GUI/New_Folder.java:28:	fieldCommentRequirement Required
+src/GUI/New_Folder.java:29:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GUI/New_Folder.java:29:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'textField_7' is not final.
+src/GUI/New_Folder.java:29:	Private field 'textField_7' could be made final; it is only initialized in the declaration or constructor.
+src/GUI/New_Folder.java:29:	fieldCommentRequirement Required
+src/GUI/New_Folder.java:30:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GUI/New_Folder.java:30:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'textField_8' is not final.
+src/GUI/New_Folder.java:30:	Private field 'textField_8' could be made final; it is only initialized in the declaration or constructor.
+src/GUI/New_Folder.java:30:	fieldCommentRequirement Required
+src/GUI/New_Folder.java:31:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GUI/New_Folder.java:31:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'textField_9' is not final.
+src/GUI/New_Folder.java:31:	Private field 'textField_9' could be made final; it is only initialized in the declaration or constructor.
+src/GUI/New_Folder.java:31:	fieldCommentRequirement Required
+src/GUI/New_Folder.java:32:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GUI/New_Folder.java:32:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'textField_10' is not final.
+src/GUI/New_Folder.java:32:	Private field 'textField_10' could be made final; it is only initialized in the declaration or constructor.
+src/GUI/New_Folder.java:32:	fieldCommentRequirement Required
+src/GUI/New_Folder.java:33:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GUI/New_Folder.java:33:	fieldCommentRequirement Required
+src/GUI/New_Folder.java:43:	It is a good practice to call super() in a constructor
+src/GUI/New_Folder.java:53:	Local variable 'label' could be declared final
+src/GUI/New_Folder.java:59:	Local variable 'label_1' could be declared final
+src/GUI/New_Folder.java:59:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'label_1' is not final.
+src/GUI/New_Folder.java:63:	Local variable 'label_2' could be declared final
+src/GUI/New_Folder.java:63:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'label_2' is not final.
+src/GUI/New_Folder.java:75:	Local variable 'label_3' could be declared final
+src/GUI/New_Folder.java:75:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'label_3' is not final.
+src/GUI/New_Folder.java:83:	Local variable 'label_4' could be declared final
+src/GUI/New_Folder.java:83:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'label_4' is not final.
+src/GUI/New_Folder.java:91:	Local variable 'label_5' could be declared final
+src/GUI/New_Folder.java:91:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'label_5' is not final.
+src/GUI/New_Folder.java:95:	Local variable 'label_6' could be declared final
+src/GUI/New_Folder.java:95:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'label_6' is not final.
+src/GUI/New_Folder.java:107:	Local variable 'label_7' could be declared final
+src/GUI/New_Folder.java:107:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'label_7' is not final.
+src/GUI/New_Folder.java:111:	Local variable 'label_8' could be declared final
+src/GUI/New_Folder.java:111:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'label_8' is not final.
+src/GUI/New_Folder.java:123:	Local variable 'label_9' could be declared final
+src/GUI/New_Folder.java:123:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'label_9' is not final.
+src/GUI/New_Folder.java:127:	Local variable 'label_10' could be declared final
+src/GUI/New_Folder.java:127:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'label_10' is not final.
+src/GUI/New_Folder.java:139:	Local variable 'label_11' could be declared final
+src/GUI/New_Folder.java:139:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'label_11' is not final.
+src/GUI/New_Folder.java:147:	Local variable 'label_12' could be declared final
+src/GUI/New_Folder.java:147:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'label_12' is not final.
+src/GUI/New_Folder.java:151:	Local variable 'radioButton' could be declared final
+src/GUI/New_Folder.java:156:	Local variable 'radioButton_1' could be declared final
+src/GUI/New_Folder.java:156:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'radioButton_1' is not final.
+src/GUI/New_Folder.java:161:	Local variable 'button' could be declared final
+src/GUI/New_Folder.java:166:	Avoid variables with short names like e
+src/GUI/New_Folder.java:166:	Parameter 'e' is not assigned and could be declared final
+src/GUI/New_Folder.java:166:	publicMethodCommentRequirement Required
+src/GUI/New_Folder.java:167:	Avoid variables with short names like g
+src/GUI/New_Folder.java:167:	Found 'DD'-anomaly for variable 'g' (lines '167'-'169').
+src/GUI/New_Folder.java:167:	Found 'DD'-anomaly for variable 'g' (lines '167'-'169').
+src/GUI/New_Folder.java:167:	Found 'DD'-anomaly for variable 'g' (lines '167'-'172').
+src/GUI/New_Folder.java:167:	Found 'DD'-anomaly for variable 'g' (lines '167'-'172').
+src/GUI/New_Folder.java:169:	Found 'DD'-anomaly for variable 'g' (lines '169'-'172').
+src/GUI/New_Folder.java:169:	Found 'DD'-anomaly for variable 'g' (lines '169'-'172').
+src/GUI/New_Folder.java:180:	Local variable 'button_1' could be declared final
+src/GUI/New_Folder.java:180:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'button_1' is not final.
+src/GUI/New_Folder.java:182:	Avoid variables with short names like e
+src/GUI/New_Folder.java:182:	Parameter 'e' is not assigned and could be declared final
+src/GUI/New_Folder.java:182:	publicMethodCommentRequirement Required
+src/GUI/New_User.java:1:	Package name contains upper case characters
+src/GUI/New_User.java:6:	Avoid unused imports such as 'javax.swing.JPasswordField'
+src/GUI/New_User.java:7:	Avoid unused imports such as 'javax.swing.GroupLayout'
+src/GUI/New_User.java:8:	Avoid unused imports such as 'javax.swing.GroupLayout.Alignment'
+src/GUI/New_User.java:12:	Avoid unused imports such as 'javax.swing.JTabbedPane'
+src/GUI/New_User.java:15:	headerCommentRequirement Required
+src/GUI/New_User.java:16:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GUI/New_User.java:16:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'textField_name' is not final.
+src/GUI/New_User.java:16:	Perhaps 'textField_name' could be replaced by a local variable.
+src/GUI/New_User.java:16:	Private field 'textField_name' could be made final; it is only initialized in the declaration or constructor.
+src/GUI/New_User.java:16:	fieldCommentRequirement Required
+src/GUI/New_User.java:17:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GUI/New_User.java:17:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'textField_surname' is not final.
+src/GUI/New_User.java:17:	Perhaps 'textField_surname' could be replaced by a local variable.
+src/GUI/New_User.java:17:	Private field 'textField_surname' could be made final; it is only initialized in the declaration or constructor.
+src/GUI/New_User.java:17:	fieldCommentRequirement Required
+src/GUI/New_User.java:18:	Avoid excessively long variable names like textField_username
+src/GUI/New_User.java:18:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GUI/New_User.java:18:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'textField_username' is not final.
+src/GUI/New_User.java:18:	Perhaps 'textField_username' could be replaced by a local variable.
+src/GUI/New_User.java:18:	Private field 'textField_username' could be made final; it is only initialized in the declaration or constructor.
+src/GUI/New_User.java:18:	fieldCommentRequirement Required
+src/GUI/New_User.java:19:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GUI/New_User.java:19:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'textField_email' is not final.
+src/GUI/New_User.java:19:	Perhaps 'textField_email' could be replaced by a local variable.
+src/GUI/New_User.java:19:	Private field 'textField_email' could be made final; it is only initialized in the declaration or constructor.
+src/GUI/New_User.java:19:	fieldCommentRequirement Required
+src/GUI/New_User.java:20:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GUI/New_User.java:20:	fieldCommentRequirement Required
+src/GUI/New_User.java:25:	It is a good practice to call super() in a constructor
+src/GUI/New_User.java:27:	Local variable 'label' could be declared final
+src/GUI/New_User.java:30:	Local variable 'label_1' could be declared final
+src/GUI/New_User.java:30:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'label_1' is not final.
+src/GUI/New_User.java:33:	Local variable 'label_2' could be declared final
+src/GUI/New_User.java:33:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'label_2' is not final.
+src/GUI/New_User.java:36:	Local variable 'label_4' could be declared final
+src/GUI/New_User.java:36:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'label_4' is not final.
+src/GUI/New_User.java:60:	Local variable 'label_3' could be declared final
+src/GUI/New_User.java:60:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'label_3' is not final.
+src/GUI/New_User.java:64:	Local variable 'radioButton' could be declared final
+src/GUI/New_User.java:69:	Local variable 'radioButton_1' could be declared final
+src/GUI/New_User.java:69:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'radioButton_1' is not final.
+src/GUI/New_User.java:74:	Local variable 'radioButton_2' could be declared final
+src/GUI/New_User.java:74:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'radioButton_2' is not final.
+src/GUI/New_User.java:79:	Local variable 'lblNewLabel' could be declared final
+src/GUI/New_User.java:84:	Local variable 'button_create' could be declared final
+src/GUI/New_User.java:84:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'button_create' is not final.
+src/GUI/New_User.java:88:	Local variable 'button_cancel' could be declared final
+src/GUI/New_User.java:88:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'button_cancel' is not final.
+src/GUI/Reset_User.java:1:	Package name contains upper case characters
+src/GUI/Reset_User.java:9:	Avoid unused imports such as 'javax.swing.JSplitPane'
+src/GUI/Reset_User.java:11:	headerCommentRequirement Required
+src/GUI/Reset_User.java:12:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GUI/Reset_User.java:12:	Perhaps 'textField' could be replaced by a local variable.
+src/GUI/Reset_User.java:12:	Private field 'textField' could be made final; it is only initialized in the declaration or constructor.
+src/GUI/Reset_User.java:12:	fieldCommentRequirement Required
+src/GUI/Reset_User.java:13:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GUI/Reset_User.java:13:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'textField_1' is not final.
+src/GUI/Reset_User.java:13:	Perhaps 'textField_1' could be replaced by a local variable.
+src/GUI/Reset_User.java:13:	Private field 'textField_1' could be made final; it is only initialized in the declaration or constructor.
+src/GUI/Reset_User.java:13:	fieldCommentRequirement Required
+src/GUI/Reset_User.java:18:	It is a good practice to call super() in a constructor
+src/GUI/Reset_User.java:21:	Local variable 'lblNewLabel' could be declared final
+src/GUI/Reset_User.java:35:	Local variable 'label' could be declared final
+src/GUI/Reset_User.java:39:	Local variable 'label_1' could be declared final
+src/GUI/Reset_User.java:39:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'label_1' is not final.
+src/GUI/Reset_User.java:43:	Local variable 'button_creset' could be declared final
+src/GUI/Reset_User.java:43:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'button_creset' is not final.
+src/GUI/Reset_User.java:47:	Local variable 'button_cancel' could be declared final
+src/GUI/Reset_User.java:47:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'button_cancel' is not final.
+src/GUI/Reset_User.java:51:	Local variable 'button_delete' could be declared final
+src/GUI/Reset_User.java:51:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'button_delete' is not final.
+src/GUI/Search.java:1:	Package name contains upper case characters
+src/GUI/Search.java:3:	Avoid unused imports such as 'java.awt.BorderLayout'
+src/GUI/Search.java:4:	Avoid unused imports such as 'java.awt.EventQueue'
+src/GUI/Search.java:17:	headerCommentRequirement Required
+src/GUI/Search.java:19:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GUI/Search.java:19:	Perhaps 'contentPane' could be replaced by a local variable.
+src/GUI/Search.java:19:	Private field 'contentPane' could be made final; it is only initialized in the declaration or constructor.
+src/GUI/Search.java:19:	fieldCommentRequirement Required
+src/GUI/Search.java:20:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GUI/Search.java:20:	Perhaps 'textField' could be replaced by a local variable.
+src/GUI/Search.java:20:	Private field 'textField' could be made final; it is only initialized in the declaration or constructor.
+src/GUI/Search.java:20:	fieldCommentRequirement Required
+src/GUI/Search.java:21:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GUI/Search.java:21:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'textField_1' is not final.
+src/GUI/Search.java:21:	Perhaps 'textField_1' could be replaced by a local variable.
+src/GUI/Search.java:21:	Private field 'textField_1' could be made final; it is only initialized in the declaration or constructor.
+src/GUI/Search.java:21:	fieldCommentRequirement Required
+src/GUI/Search.java:22:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GUI/Search.java:22:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'textField_2' is not final.
+src/GUI/Search.java:22:	Perhaps 'textField_2' could be replaced by a local variable.
+src/GUI/Search.java:22:	Private field 'textField_2' could be made final; it is only initialized in the declaration or constructor.
+src/GUI/Search.java:22:	fieldCommentRequirement Required
+src/GUI/Search.java:23:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GUI/Search.java:23:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'textField_3' is not final.
+src/GUI/Search.java:23:	Private field 'textField_3' could be made final; it is only initialized in the declaration or constructor.
+src/GUI/Search.java:23:	fieldCommentRequirement Required
+src/GUI/Search.java:24:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GUI/Search.java:24:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'textField_4' is not final.
+src/GUI/Search.java:24:	Perhaps 'textField_4' could be replaced by a local variable.
+src/GUI/Search.java:24:	Private field 'textField_4' could be made final; it is only initialized in the declaration or constructor.
+src/GUI/Search.java:24:	fieldCommentRequirement Required
+src/GUI/Search.java:25:	Avoid variables with short names like ms
+src/GUI/Search.java:25:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GUI/Search.java:25:	Private field 'ms' could be made final; it is only initialized in the declaration or constructor.
+src/GUI/Search.java:25:	fieldCommentRequirement Required
+src/GUI/Search.java:30:	Avoid variables with short names like m
+src/GUI/Search.java:30:	It is a good practice to call super() in a constructor
+src/GUI/Search.java:30:	Parameter 'm' is not assigned and could be declared final
+src/GUI/Search.java:42:	Local variable 'label' could be declared final
+src/GUI/Search.java:50:	Local variable 'label_1' could be declared final
+src/GUI/Search.java:50:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'label_1' is not final.
+src/GUI/Search.java:58:	Local variable 'label_2' could be declared final
+src/GUI/Search.java:58:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'label_2' is not final.
+src/GUI/Search.java:66:	Local variable 'label_3' could be declared final
+src/GUI/Search.java:66:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'label_3' is not final.
+src/GUI/Search.java:74:	Local variable 'button' could be declared final
+src/GUI/Search.java:77:	Avoid variables with short names like e
+src/GUI/Search.java:77:	Parameter 'e' is not assigned and could be declared final
+src/GUI/Search.java:77:	publicMethodCommentRequirement Required
+src/GUI/Search.java:78:	Avoid using Literals in Conditional Statements
+src/GUI/Search.java:78:	Potential violation of Law of Demeter (method chain calls)
+src/GUI/Search.java:87:	Local variable 'button_1' could be declared final
+src/GUI/Search.java:87:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'button_1' is not final.
+src/GUI/Search.java:89:	Avoid variables with short names like e
+src/GUI/Search.java:89:	Parameter 'e' is not assigned and could be declared final
+src/GUI/Search.java:89:	publicMethodCommentRequirement Required
+src/GUI/Search.java:100:	Local variable 'label_4' could be declared final
+src/GUI/Search.java:100:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'label_4' is not final.
+src/GUI/Search.java:105:	Local variable 'label_5' could be declared final
+src/GUI/Search.java:105:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'label_5' is not final.
+src/GUI/Search.java:110:	Local variable 'label_6' could be declared final
+src/GUI/Search.java:110:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'label_6' is not final.
+src/GUI/Start.java:1:	Package name contains upper case characters
+src/GUI/Start.java:3:	Avoid unused imports such as 'java.awt.BorderLayout'
+src/GUI/Start.java:5:	Avoid unused imports such as 'java.awt.Dimension'
+src/GUI/Start.java:11:	Avoid unused imports such as 'javax.swing.JScrollPane'
+src/GUI/Start.java:23:	headerCommentRequirement Required
+src/GUI/Start.java:25:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GUI/Start.java:25:	Use explicit scoping instead of the default package private level
+src/GUI/Start.java:25:	fieldCommentRequirement Required
+src/GUI/Start.java:26:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GUI/Start.java:26:	Use explicit scoping instead of the default package private level
+src/GUI/Start.java:26:	fieldCommentRequirement Required
+src/GUI/Start.java:28:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GUI/Start.java:28:	Use explicit scoping instead of the default package private level
+src/GUI/Start.java:28:	fieldCommentRequirement Required
+src/GUI/Start.java:29:	Avoid excessively long variable names like textField_password
+src/GUI/Start.java:29:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GUI/Start.java:29:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'textField_password' is not final.
+src/GUI/Start.java:29:	Private field 'textField_password' could be made final; it is only initialized in the declaration or constructor.
+src/GUI/Start.java:29:	fieldCommentRequirement Required
+src/GUI/Start.java:30:	Avoid excessively long variable names like textField_username
+src/GUI/Start.java:30:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GUI/Start.java:30:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'textField_username' is not final.
+src/GUI/Start.java:30:	Private field 'textField_username' could be made final; it is only initialized in the declaration or constructor.
+src/GUI/Start.java:30:	fieldCommentRequirement Required
+src/GUI/Start.java:31:	Avoid variables with short names like cl
+src/GUI/Start.java:31:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GUI/Start.java:31:	Use explicit scoping instead of the default package private level
+src/GUI/Start.java:31:	fieldCommentRequirement Required
+src/GUI/Start.java:32:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GUI/Start.java:32:	Use explicit scoping instead of the default package private level
+src/GUI/Start.java:32:	fieldCommentRequirement Required
+src/GUI/Start.java:34:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GUI/Start.java:34:	Use explicit scoping instead of the default package private level
+src/GUI/Start.java:34:	fieldCommentRequirement Required
+src/GUI/Start.java:35:	Avoid variables with short names like ac
+src/GUI/Start.java:35:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GUI/Start.java:35:	Use explicit scoping instead of the default package private level
+src/GUI/Start.java:35:	fieldCommentRequirement Required
+src/GUI/Start.java:40:	Consider using varargs for methods or constructors which take an array the last parameter.
+src/GUI/Start.java:40:	Parameter 'args' is not assigned and could be declared final
+src/GUI/Start.java:41:	To be compliant to J2EE, a webapp should not use any thread.
+src/GUI/Start.java:42:	publicMethodCommentRequirement Required
+src/GUI/Start.java:44:	Local variable 'frame' could be declared final
+src/GUI/Start.java:46:	Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/GUI/Start.java:47:	Avoid printStackTrace(); use a logger call instead.
+src/GUI/Start.java:56:	It is a good practice to call super() in a constructor
+src/GUI/Start.java:78:	Local variable 'label' could be declared final
+src/GUI/Start.java:85:	Local variable 'button_exit' could be declared final
+src/GUI/Start.java:85:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'button_exit' is not final.
+src/GUI/Start.java:89:	Avoid variables with short names like e
+src/GUI/Start.java:89:	Parameter 'e' is not assigned and could be declared final
+src/GUI/Start.java:89:	publicMethodCommentRequirement Required
+src/GUI/Start.java:90:	System.exit() should not be used in J2EE/JEE apps
+src/GUI/Start.java:95:	Local variable 'button_login' could be declared final
+src/GUI/Start.java:95:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'button_login' is not final.
+src/GUI/Start.java:98:	Parameter 'arg0' is not assigned and could be declared final
+src/GUI/Start.java:98:	publicMethodCommentRequirement Required
+src/GUI/Start.java:99:	No need to call String.valueOf to append to a string.
+src/GUI/Start.java:99:	System.out.println is used
+src/GUI/Start.java:102:	Avoid using if statements without curly braces
+src/GUI/Start.java:104:	Potential violation of Law of Demeter (method chain calls)
+src/GUI/Start.java:107:	Switch statements should have a default label
+src/GUI/Start.java:130:	Local variable 'label_1' could be declared final
+src/GUI/Start.java:130:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'label_1' is not final.
+src/GUI/Start.java:141:	Local variable 'label_2' could be declared final
+src/GUI/Start.java:141:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'label_2' is not final.
+src/GUI/Start.java:148:	Avoid variables with short names like s
+src/GUI/Start.java:148:	Method names should not start with capital letters
+src/GUI/Start.java:148:	Parameter 's' is not assigned and could be declared final
+src/GUI/Start.java:148:	publicMethodCommentRequirement Required
+src/GUI/Start.java:149:	Switch statements should have a default label
+src/GUI/Visit.java:1:	Package name contains upper case characters
+src/GUI/Visit.java:5:	Avoid unused imports such as 'javax.swing.JFrame'
+src/GUI/Visit.java:6:	Avoid unused imports such as 'javax.swing.JEditorPane'
+src/GUI/Visit.java:9:	Avoid unused imports such as 'javax.swing.JTextField'
+src/GUI/Visit.java:14:	Avoid unused imports such as 'javax.swing.UIManager'
+src/GUI/Visit.java:15:	Avoid unused imports such as 'javax.swing.BoundedRangeModel'
+src/GUI/Visit.java:18:	Avoid unused imports such as 'java.awt.BorderLayout'
+src/GUI/Visit.java:21:	Avoid unused imports such as 'javax.swing.table.TableModel'
+src/GUI/Visit.java:24:	headerCommentRequirement Required
+src/GUI/Visit.java:25:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GUI/Visit.java:25:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'table_1' is not final.
+src/GUI/Visit.java:25:	Perhaps 'table_1' could be replaced by a local variable.
+src/GUI/Visit.java:25:	Private field 'table_1' could be made final; it is only initialized in the declaration or constructor.
+src/GUI/Visit.java:25:	fieldCommentRequirement Required
+src/GUI/Visit.java:26:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GUI/Visit.java:26:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'table_2' is not final.
+src/GUI/Visit.java:26:	Perhaps 'table_2' could be replaced by a local variable.
+src/GUI/Visit.java:26:	Private field 'table_2' could be made final; it is only initialized in the declaration or constructor.
+src/GUI/Visit.java:26:	fieldCommentRequirement Required
+src/GUI/Visit.java:31:	Avoid variables with short names like s
+src/GUI/Visit.java:31:	It is a good practice to call super() in a constructor
+src/GUI/Visit.java:31:	Parameter 's' is not assigned and could be declared final
+src/GUI/Visit.java:38:	Local variable 'panel' could be declared final
+src/GUI/Visit.java:45:	Avoid excessively long variable names like txtpnDgajrgftjmnarttjadgfnagfnagf
+src/GUI/Visit.java:45:	Local variable 'txtpnDgajrgftjmnarttjadgfnagfnagf' could be declared final
+src/GUI/Visit.java:49:	Local variable 'lblNewLabel' could be declared final
+src/GUI/Visit.java:53:	Avoid excessively long variable names like formattedTextField
+src/GUI/Visit.java:53:	Local variable 'formattedTextField' could be declared final
+src/GUI/Visit.java:53:	When instantiating a SimpleDateFormat object, specify a Locale
+src/GUI/Visit.java:58:	Local variable 'label' could be declared final
+src/GUI/Visit.java:62:	Local variable 'scrollPane2' could be declared final
+src/GUI/Visit.java:80:	Local variable 'model' could be declared final
+src/GUI/Visit.java:81:	Local variable 'btnNewButton' could be declared final
+src/GUI/Visit.java:83:	Avoid variables with short names like e
+src/GUI/Visit.java:83:	Parameter 'e' is not assigned and could be declared final
+src/GUI/Visit.java:83:	publicMethodCommentRequirement Required
+src/GUI/Visit.java:90:	Local variable 'label_1' could be declared final
+src/GUI/Visit.java:90:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'label_1' is not final.
+src/GUI/Visit.java:94:	Local variable 'btnRemove' could be declared final
+src/GUI/Visit.java:96:	Avoid variables with short names like e
+src/GUI/Visit.java:96:	Parameter 'e' is not assigned and could be declared final
+src/GUI/Visit.java:96:	publicMethodCommentRequirement Required
+src/GUI/Visit.java:103:	Local variable 'textPane' could be declared final
+src/GUI/Visit.java:107:	Local variable 'label_2' could be declared final
+src/GUI/Visit.java:107:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'label_2' is not final.
+src/GUI/Visit.java:111:	Local variable 'scrollPane' could be declared final
+src/GUI/Visit.java:129:	Local variable 'model2' could be declared final
+src/GUI/Visit.java:132:	Local variable 'button' could be declared final
+src/GUI/Visit.java:134:	Parameter 'arg0' is not assigned and could be declared final
+src/GUI/Visit.java:134:	publicMethodCommentRequirement Required
+src/GUI/Visit.java:141:	Local variable 'label_3' could be declared final
+src/GUI/Visit.java:141:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'label_3' is not final.
+src/GUI/Visit.java:145:	Local variable 'button_1' could be declared final
+src/GUI/Visit.java:145:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'button_1' is not final.
+src/GUI/Visit.java:147:	Avoid variables with short names like e
+src/GUI/Visit.java:147:	Parameter 'e' is not assigned and could be declared final
+src/GUI/Visit.java:147:	publicMethodCommentRequirement Required
+src/GUI/Visit.java:154:	Local variable 'label_4' could be declared final
+src/GUI/Visit.java:154:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'label_4' is not final.
+src/GUI/Visit.java:158:	Local variable 'textPane_1' could be declared final
+src/GUI/Visit.java:158:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'textPane_1' is not final.
+src/GUI/Visit.java:162:	Local variable 'lblNewLabel_1' could be declared final
+src/GUI/Visit.java:162:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'lblNewLabel_1' is not final.
+src/GUI/Visit.java:167:	Local variable 'btnNewButton_1' could be declared final
+src/GUI/Visit.java:167:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'btnNewButton_1' is not final.
+src/GUI/Visit.java:169:	Parameter 'arg0' is not assigned and could be declared final
+src/GUI/Visit.java:169:	publicMethodCommentRequirement Required
+src/GUI/Visit.java:176:	Local variable 'btnNewButton_2' could be declared final
+src/GUI/Visit.java:176:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'btnNewButton_2' is not final.
+src/GUI/Visit.java:178:	Avoid variables with short names like e
+src/GUI/Visit.java:178:	Parameter 'e' is not assigned and could be declared final
+src/GUI/Visit.java:178:	publicMethodCommentRequirement Required
+src/GUI/Visit.java:185:	Local variable 'btnNewButton_3' could be declared final
+src/GUI/Visit.java:185:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'btnNewButton_3' is not final.
+src/GUI/Visit.java:187:	Avoid variables with short names like e
+src/GUI/Visit.java:187:	Document empty method body
+src/GUI/Visit.java:187:	Parameter 'e' is not assigned and could be declared final
+src/GUI/Visit.java:187:	publicMethodCommentRequirement Required
